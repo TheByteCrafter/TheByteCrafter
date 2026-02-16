@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @TheByteCrafter<br>👀 I’m interested in Web And Collaborative imeplementations<br>🌱 I’m currently learning Web Development<br>💞️ I’m looking to collaborate on innovaive projects<br>📫 How to reach me : victorrarei.netlify.app<br>😄 Pronouns: ...<br>⚡ Fun fact: Fun fact: The first website ever created is still online—and it’s just plain HTML with no CSS or JavaScript. Talk about minimalism done right!<br>
+👋 Hi, I’m @TheByteCrafter<br>👀 I’m interested in Web And Collaborative imeplementations<br>🌱 I’m currently learning Web Development<br>💞️ I’m looking to collaborate on innovaive projects<br>📫 How to reach me :(https://vickiewanjohiportfolio.pages.dev/)<br>😄 Pronouns: ...<br>⚡ Fun fact: Fun fact: The first website ever created is still online—and it’s just plain HTML with no CSS or JavaScript. Talk about minimalism done right!<br>
 
 
 ## 🌐 Socials:
